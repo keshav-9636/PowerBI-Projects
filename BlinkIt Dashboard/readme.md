@@ -1,6 +1,6 @@
 # 📦 Blinkit Sales Analysis Dashboard (Power BI)
 
-![Blinkit Sales Dashboard]()
+![Blinkit Sales Dashboard](https://github.com/keshav-9636/PowerBI-Projects/blob/main/BlinkIt%20Dashboard/Capture.PNG)
 
 ## 📌 Overview
 
