@@ -1,6 +1,6 @@
 # 🎬 Netflix Content Analysis Dashboard (Power BI)
 
-![Netflix Content Dashboard]()
+![Netflix Content Dashboard](https://github.com/keshav-9636/PowerBI-Projects/blob/main/Netflix%20Dashboard/Netflix%20Dashboard.PNG)
 
 ## 📌 Overview
 
