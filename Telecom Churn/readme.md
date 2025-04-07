@@ -4,6 +4,8 @@
 
 This informative Power BI report provides a comprehensive analysis of customer churn for a telecom company, identifying key factors driving customer attrition. The visualization explores customer demographics, contract types, service preferences, and customer feedback to uncover actionable insights for reducing churn rates and improving customer retention strategies.
 
+Link for PDF: https://github.com/keshav-9636/PowerBI-Projects/blob/main/Telecom%20Churn/churn.pdf
+
 ---
 
 ## 🛠 Tools & Technologies
