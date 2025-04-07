@@ -2,7 +2,7 @@
 
 ## **About This Project**  
 
-![](https://github.com/keshav-9636/Plato-Pizza-Maven-Analytics/blob/main/plato%20pizza.PNG)
+![](https://github.com/keshav-9636/PowerBI-Projects/blob/main/Pizza%20Place%20Analysis/plato%20pizza.PNG)
 
 As a **BI Consultant**, my objective was to analyze **Plato's Pizza's** sales data and uncover insights to improve business operations. I used **Power BI** to clean, transform, and visualize data, creating an **interactive dashboard** that highlights key performance indicators, sales trends, and customer behavior. This project helps stakeholders make **data-driven decisions** to optimize revenue and operational efficiency.  
 
