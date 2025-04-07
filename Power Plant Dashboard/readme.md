@@ -1,6 +1,6 @@
 # 🌱 Plant Co. Quantity Performance Dashboard (Power BI)
 
-![Plant Co. Performance Dashboard](https://github.com/your-username/PowerBI-Projects/blob/main/PlantCo%20Dashboard/plantco_dashboard.png)
+![Plant Co. Performance Dashboard](https://github.com/keshav-9636/PowerBI-Projects/blob/main/Power%20Plant%20Dashboard/Capture.PNG)
 
 ## 📌 Overview
 
