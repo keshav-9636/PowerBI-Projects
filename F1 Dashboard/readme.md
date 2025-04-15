@@ -2,6 +2,9 @@
 
 This Power BI project analyzes historic Formula 1 race data from 1950 to 2020, sourced from [Kaggle](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020). It visualizes trends in driver and constructor performance, race victories, podium finishes, circuit-level stats, and country-wise dominance.
 
+## 📷 Preview
+![Dashboard Screenshot](./Screenshots/f1_dashboard.png)
+
 ## 📌 Key Features
 
 - **Interactive Dashboard** built in Power BI for quick insights.
@@ -30,5 +33,3 @@ This Power BI project analyzes historic Formula 1 race data from 1950 to 2020, s
 - `Data/` – Source datasets (cleaned)
 - `README.md` – Documentation (this file)
 - `Screenshots/` – Static preview of dashboard views
-
-## 📷 Preview
