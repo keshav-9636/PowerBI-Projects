@@ -7,6 +7,10 @@ As a **Business Intelligence Analyst**, my objective was to analyze Maven Market
 Using **Power BI**, I cleaned, transformed, and visualized the data to build a **multi-page interactive dashboard**. This project empowers stakeholders to monitor performance, uncover trends, and make strategic decisions.
 
 Live Dashboard: [Maven Market](https://tinyurl.com/mrt7avtd)
+
+Screenshots
+
+![Netflix Content Dashboard](https://github.com/keshav-9636/PowerBI-Projects/blob/main/Netflix%20Dashboard/Netflix%20Dashboard.PNG)
 ---
 
 ## 🛠️ Tools & Technologies Used
