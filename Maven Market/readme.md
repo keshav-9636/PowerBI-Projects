@@ -10,7 +10,14 @@ Live Dashboard: [Maven Market](https://tinyurl.com/mrt7avtd)
 
 Screenshots
 
-![Netflix Content Dashboard](https://github.com/keshav-9636/PowerBI-Projects/blob/main/Netflix%20Dashboard/Netflix%20Dashboard.PNG)
+![Executive](https://github.com/keshav-9636/PowerBI-Projects/blob/main/Maven%20Market/executive.PNG)
+
+![Region](https://github.com/keshav-9636/PowerBI-Projects/blob/main/Maven%20Market/region.PNG)
+
+![Customer](https://github.com/keshav-9636/PowerBI-Projects/blob/main/Maven%20Market/customer.PNG)
+
+![Product](https://github.com/keshav-9636/PowerBI-Projects/blob/main/Maven%20Market/product.PNG)
+
 ---
 
 ## 🛠️ Tools & Technologies Used
