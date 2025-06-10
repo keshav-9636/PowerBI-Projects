@@ -2,6 +2,9 @@
 
 ![Plant Co. Performance Dashboard](https://github.com/keshav-9636/PowerBI-Projects/blob/main/Power%20Plant%20Dashboard/Capture.PNG)
 
+Link for Dashboard: [Plant Co. Performance Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzY0NjIxMTAtMjJkMS00NjE2LTk2ZDgtN2U0NDlkZWY4MGYxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+
 ## 📌 Overview
 
 This Power BI dashboard provides comprehensive analysis of Plant Co.'s 2023 quantity performance across global markets and product categories. It tracks year-to-date (YTD) metrics against prior year (PYTD) comparisons, showcases month-by-month quantity trends, and segments performance by country and product type. The interactive visualizations enable strategic decision-making for inventory management, market prioritization, and product development.
