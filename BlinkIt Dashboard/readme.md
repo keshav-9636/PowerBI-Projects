@@ -2,6 +2,8 @@
 
 ![Blinkit Sales Dashboard](https://github.com/keshav-9636/PowerBI-Projects/blob/main/BlinkIt%20Dashboard/Capture.PNG)
 
+Link to Dashboard: ![Blinkit Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGYyZmU3MDQtODc3YS00NWVkLTkzNjUtY2Q5MThkMjQwNDA3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ## 📌 Overview
 
 This Power BI dashboard offers an in-depth sales performance analysis for Blinkit—India’s last-minute delivery app. It uncovers insights across sales metrics, item categories, outlet types, locations, and customer ratings. The interactive filters allow dynamic exploration of the data to support strategic decision-making across operations, marketing, and expansion planning.
