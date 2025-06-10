@@ -4,6 +4,8 @@
 
 ![](https://github.com/keshav-9636/PowerBI-Projects/blob/main/Pizza%20Place%20Analysis/plato%20pizza.PNG)
 
+Link to Dashboard: [Plato's Pizza](https://app.powerbi.com/view?r=eyJrIjoiZWZiZTk1ZjItYWJkMC00ZGZkLWE1MmQtYjVlNmMwNGY0NGU3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 As a **BI Consultant**, my objective was to analyze **Plato's Pizza's** sales data and uncover insights to improve business operations. I used **Power BI** to clean, transform, and visualize data, creating an **interactive dashboard** that highlights key performance indicators, sales trends, and customer behavior. This project helps stakeholders make **data-driven decisions** to optimize revenue and operational efficiency.  
 
 ---
