@@ -14,7 +14,7 @@
 
 📊 This project demonstrates how Business Intelligence tools like Power BI can bring clarity to business operations and enable data-driven decisions.
 
-> 🔗 **[Live Dashboard Link →](https://app.powerbi.com/view?r=eyJrIjoiZjViNjNmMTItN2Y2Mi00MzAyLWFjOGMtYzQ0NTMyYjRlYjE3IiwidCI6IjQ5Y2NmNjFlLTk4YzUtNDNmZS1hNTI3LTcyYzY2YzE0ZDIzYiIsImMiOjF9)**  
+> 🔗 **[Live Dashboard Link →](https://app.powerbi.com/view?r=eyJrIjoiNjRhNWYzOWMtNGQyMi00YmQyLTgwNDgtYjM4Njk2M2VmYzg3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**  
 > *(hosted on Power BI Service)*
 
 ---
